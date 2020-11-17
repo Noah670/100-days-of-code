@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
 ### Day 1: November 17, 2020, Tuesday
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about Gantt charts as a visual way to represent a projects requirements using Lucidchart.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Gantt Chart](https://www.lucidchart.com/blog/how-to-use-a-gantt-chart)
 
 ### Day 2: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
