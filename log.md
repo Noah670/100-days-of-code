@@ -12,7 +12,7 @@
 
 **Thoughts**: I think the Gantt Chart turned out very well and I can see the importance it provides for scheduling projects across teams
 
-**Link(s) to work**: [Gantt Chart ](http://www.example.com)
+**Link(s) to work**: [Gantt Chart ](https://github.com/Noah670/100-Days-Of-Code-Storage/blob/main/Gantt_Chart_Noah.png)
 
 
 ### Day 3: June 27, Monday
