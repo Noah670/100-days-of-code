@@ -11,6 +11,7 @@
 **Today's Progress**: Created a Gantt Chart timeline with Lucidchart
 
 **Thoughts**: I think the Gantt Chart turned out very well and I can see the importance it provides for scheduling projects across teams
+
 **Link(s) to work**: [Gantt Chart ](http://www.example.com)
 
 
