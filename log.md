@@ -23,6 +23,7 @@
 
 **Link(s) to work**
 1. [Sorting algorithms](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
+1. [Time complexity comparisons of sorting algorithms](https://www.bigocheatsheet.com/)
 
 ### Day 4: November 20, 2020, Friday
 
