@@ -17,9 +17,9 @@
 
 ### Day 3: November 19, 2020, Thursday
 
-**Today's Progress**: Practiced Selection and Inseration sort algorithms
+**Today's Progress**: Practiced various sorting algorithms including Insertion sort, merge sort, and quick sort.
 
-**Thoughts** 
+**Thoughts** Learning about the different run times for each of the different algorithms was interesting and I can defintiely see the advatnage an algorithm such as Quick Sort has over insertion sort with a large data set.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
