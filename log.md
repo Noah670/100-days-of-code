@@ -22,7 +22,7 @@
 **Thoughts** Learning about the different run times for each of the different algorithms was interesting and I can defintiely see the advatnage an algorithm such as Quick Sort has over insertion sort with a large data set.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Sorting algorithms](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
 
 ### Day 4: November 20, 2020, Friday
 
