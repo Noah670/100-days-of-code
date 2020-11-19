@@ -23,3 +23,12 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+### Day 4: November 20, 2020, Friday
+
+**Today's Progress**: Practiced Selection and Inseration sort algorithms
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
