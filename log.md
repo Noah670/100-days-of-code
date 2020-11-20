@@ -33,3 +33,24 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+
+
+### Day 5: November 21, 2020, Saturday
+
+**Today's Progress**: Implemented selection sort and quick sort into a C++ program that sorts a CSV auction file alphabetically.
+
+**Thoughts**  After implementing the quick sort and selection sort algorithms I noticed the huge difference in performance between the two data structures. Quick sort was able to sort all of the bids in a fraciton of a second compared to selection sort which took almost 10 times as long.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+
+### Day 6: November 22, 2020, Sunday
+
+**Today's Progress**: Implemented selection sort and quick sort into a C++ program that sorts a CSV auction file alphabetically.
+
+**Thoughts**  After implementing the quick sort and selection sort algorithms I noticed the huge difference in performance between the two data structures. Quick sort was able to sort all of the bids in a fraciton of a second compared to selection sort which took almost 10 times as long.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
