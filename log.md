@@ -32,7 +32,7 @@
 **Thoughts**  After implementing the quick sort and selection sort algorithms I noticed the huge difference in performance between the two data structures. Quick sort was able to sort all of the bids in a fraciton of a second compared to selection sort which took almost 10 times as long.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Quick Sort and Selection Sort program](https://github.com/Noah670/Vector-Sorting)
 
 
 
