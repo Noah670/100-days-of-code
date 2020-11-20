@@ -27,9 +27,9 @@
 
 ### Day 4: November 20, 2020, Friday
 
-**Today's Progress**: Practiced Selection and Inseration sort algorithms
+**Today's Progress**: Implemented selection sort and quick sort into a C++ program that sorts a CSV auction file alphabetically.
 
-**Thoughts** 
+**Thoughts**  After implementing the quick sort and selection sort algorithms I noticed the huge difference in performance between the two data structures. Quick sort was able to sort all of the bids in a fraciton of a second compared to selection sort which took almost 10 times as long.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
