@@ -40,10 +40,11 @@
 
 **Today's Progress**: Learned the basics of Solidity, a programming langauge for implementing smart contracts on the ethereum blockchain.
 
-**Thoughts**  After implementing the quick sort and selection sort algorithms I noticed the huge difference in performance between the two data structures. Quick sort was able to sort all of the bids in a fraciton of a second compared to selection sort which took almost 10 times as long.
+**Thoughts**  Solidiity provides a lot of great support and I was surprised to see how fast you could get an application up and running with the provided documentaiton, along with the Remix IDE which can be used to build Ethereum contracts directly with Solidity and debug transactions.
 
 **Link(s) to work**
 1. [Solidity documentation](https://docs.soliditylang.org/en/v0.7.5/)
+2. [Remix IDE](https://remix.ethereum.org/)
 
 
 ### Day 6: November 22, 2020, Sunday
