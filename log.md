@@ -40,7 +40,7 @@
 
 **Today's Progress**: Learned the basics of Solidity, a programming langauge for implementing smart contracts on the ethereum blockchain.
 
-**Thoughts**  Solidiity provides a lot of great support and I was surprised to see how fast you could get an application up and running with the provided documentaiton, along with the Remix IDE which can be used to build Ethereum contracts directly with Solidity and debug transactions.
+**Thoughts**  Solidity provides a lot of great support and I was surprised to see how fast you could get an application up and running with the provided documentaiton, along with the Remix IDE which can be used to build Ethereum contracts directly with Solidity and debug transactions.
 
 **Link(s) to work**
 1. [Solidity documentation](https://docs.soliditylang.org/en/v0.7.5/)
