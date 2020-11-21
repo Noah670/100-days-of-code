@@ -48,9 +48,9 @@
 
 ### Day 6: November 22, 2020, Sunday
 
-**Today's Progress**: Implemented selection sort and quick sort into a C++ program that sorts a CSV auction file alphabetically.
+**Today's Progress**: Created a web application using Three.JS to display the location of a popular tourist destination in Saipan, the Northern Marianas Islands.
 
-**Thoughts**  After implementing the quick sort and selection sort algorithms I noticed the huge difference in performance between the two data structures. Quick sort was able to sort all of the bids in a fraciton of a second compared to selection sort which took almost 10 times as long.
+**Thoughts**  Utilizing the Three.js framework for the web application was an interesting process, I also had to figure out how to convert the panorama of Saipan into a six sided shape skybox to use within the Three.js Orbit controls.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Visit Paseo-De-Marianas ](https://noah670.github.io/Paseo-De-Marianas/)
