@@ -55,3 +55,13 @@
 
 **Link(s) to work**
 1. [Visit Paseo-De-Marianas ](https://noah670.github.io/Paseo-De-Marianas/)
+
+
+### Day 7: November 22, 2020, Sunday
+
+**Today's Progress**: Worked on implementing a hash table into a C++ program with the chaining method for detecting collisons.
+
+**Thoughts**  Creating the hash table I learned the versatility a properly done hashing algorithm provides to an application. I also learned a hash table is very fast at searching or removing items from a list. For example, a good hashing algorithm is capable of inserting an item with a time complexity of just O(1) while a typical search using something like a stack would take O(n). 
+
+**Link(s) to work**
+1. [Visit Paseo-De-Marianas ](https://noah670.github.io/Paseo-De-Marianas/)
