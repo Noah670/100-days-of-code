@@ -75,5 +75,5 @@
 **Thoughts**  I enjoyed learning about use case diagrams and realized how important they for any system being built. I also learned how UML use case diagrams can be used to represent the different actors and “use cases” for a particular system and various relationships such as extending and inhertitance. 
 
 **Link(s) to work**
-1. [My UMl use case diagram ](https://github.com/Noah670/HashTable/)
+1. [My UMl use case diagram ](https://github.com/Noah670/use-case-diagram)
 2. [Lucid chart tutorial](https://www.lucidchart.com/pages/uml-use-case-diagram)
