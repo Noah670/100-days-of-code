@@ -77,3 +77,14 @@
 **Link(s) to work**
 1. [My UMl use case diagram ](https://github.com/Noah670/use-case-diagram)
 2. [Lucid chart tutorial](https://www.lucidchart.com/pages/uml-use-case-diagram)
+
+### Day 9: November 25, 2020, Wednesday
+
+**Today's Progress**: Worked with the Electron framework to build a desktop application that displays my existing website and the current version of Node.js installed
+
+**Thoughts**  I had fun working with the Electron framework and can see how beneficial it is for creating multiplatform apps across Mac, Windows, and Linux. Electron has great documentation and the build and installation process is simplifeid with NPM and the Electron forge tool.
+
+**Link(s) to work**
+1. [My electro-Noah670 app ](https://github.com/Noah670/electro-Noah670)
+2. [Electron JS](https://www.electronjs.org/)
+3. [Electron Forge](https://www.electronforge.io/)
