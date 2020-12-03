@@ -88,3 +88,16 @@
 1. [My electro-Noah670 app ](https://github.com/Noah670/electro-Noah670)
 2. [Electron JS](https://www.electronjs.org/)
 3. [Electron Forge](https://www.electronforge.io/)
+
+
+
+### Day 10: November 26, 2020, Thursday
+
+**Today's Progress**: Worked on creating a Binary Search Tree that can find, read, and remove items from a list in C++.
+
+**Thoughts**  It was interesting to implement a Binary Search tree within C++ and figure out the different cases depending on the type of node we want to remove from the tree such as a leaf node or node with two children.
+
+**Link(s) to work**
+1. [My electro-Noah670 app ](https://github.com/Noah670/electro-Noah670)
+2. [Electron JS](https://www.electronjs.org/)
+3. [Electron Forge](https://www.electronforge.io/)
