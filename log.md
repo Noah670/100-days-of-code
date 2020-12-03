@@ -98,6 +98,5 @@
 **Thoughts**  It was interesting to implement a Binary Search tree within C++ and figure out the different cases depending on the type of node we want to remove from the tree such as a leaf node or node with two children.
 
 **Link(s) to work**
-1. [My electro-Noah670 app ](https://github.com/Noah670/electro-Noah670)
-2. [Electron JS](https://www.electronjs.org/)
-3. [Electron Forge](https://www.electronforge.io/)
+1. [My Binary Search Tree in C++ ](https://github.com/Noah670/Binary-Search-Tree-cpp)
+2. [Binary Search Tree resources](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.html)
