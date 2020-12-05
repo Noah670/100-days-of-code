@@ -100,3 +100,25 @@
 **Link(s) to work**
 1. [My Binary Search Tree in C++ ](https://github.com/Noah670/Binary-Search-Tree-cpp)
 2. [Binary Search Tree resources](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.html)
+
+
+### Day 11: November 27, 2020, Friday
+
+**Today's Progress**: Worked on my idea for creating a breakout style inspired game within Javascript.
+
+**Thoughts**  I was inspired to work on this idea I had for breakout style game and have implemented the basic playable state of the game with the paddle and bricks.
+
+**Link(s) to work**
+1. [Progress on my game ](https://github.com/Noah670/Pure-Breakout)
+
+
+### Day 12: November 28, 2020, Saturday
+
+**Today's Progress**: Continued working on my game project now called Pure Breakout which includes new features such as a dark mode and randomly generated block colors. 
+
+**Thoughts**  I incorporated new features and ideas into Pure Breakout and I really like the way the overall presentation of the game turned out along with the background music.
+
+**Link(s) to work**
+1. [Pure Breakout ](https://github.com/Noah670/Pure-Breakout)
+
+
