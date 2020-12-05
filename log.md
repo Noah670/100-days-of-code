@@ -119,6 +119,6 @@
 **Thoughts**  I incorporated new features and ideas into Pure Breakout and I really like the way the overall presentation of the game turned out along with the background music.
 
 **Link(s) to work**
-1. [Pure Breakout ](https://github.com/Noah670/Pure-Breakout)
+1. [Pure Breakout ](https://noah670.github.io/Pure-Breakout/)
 
 
