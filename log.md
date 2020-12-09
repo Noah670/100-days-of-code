@@ -144,11 +144,11 @@
 
 ### Day 15: December 1, 2020, Tuesday
 
-**Today's Progress**: Continued working on my game project now called Pure Breakout which includes new features such as a dark mode and randomly generated block colors. 
+**Today's Progress**: Discovered Code analogies and decided to read through some of the web development tutorials and Javascript concepts for practice.
 
-**Thoughts**  I incorporated new features and ideas into Pure Breakout and I really like the way the overall presentation of the game turned out along with the background music.
+**Thoughts**  The way code analogies explains various concepts in an intuitive way through pictures and common explanations is a great resource to find. I will be using code analogies in the future along with their interactive examples.
 
 **Link(s) to work**
-1. [Code analgoies ](https://noah670.github.io/Pure-Breakout/)
+1. [Code analogies ](https://www.codeanalogies.com/)
 
 
