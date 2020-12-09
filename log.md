@@ -132,17 +132,17 @@
 1. [My UML diagrams ](https://github.com/Noah670/UML-diagrams-use-cases)
 
 
-### Day 12: November 30, 2020, Monday
+### Day 14: November 30, 2020, Monday
 
-**Today's Progress**: Continued working on my game project now called Pure Breakout which includes new features such as a dark mode and randomly generated block colors. 
+**Today's Progress**: Complied together some of my different programs on data strucures and algorithms into one big portfolio project.
 
-**Thoughts**  I incorporated new features and ideas into Pure Breakout and I really like the way the overall presentation of the game turned out along with the background music.
+**Thoughts**  Reflecting upon all of the different data strucures and algorithms that I learned about such as binary search trees, doubly linked-lists, and hash tables was a great exercise and reinforfced my knowldege on when to use specific data structures while programming.  
 
 **Link(s) to work**
-1. [Pure Breakout ](https://noah670.github.io/Pure-Breakout/)
+1. [My data structures portfolio ](https://github.com/Noah670/Data-Structures-Portfolio)
 
 
-### Day 12: December 1, 2020, Tuesday
+### Day 15: December 1, 2020, Tuesday
 
 **Today's Progress**: Continued working on my game project now called Pure Breakout which includes new features such as a dark mode and randomly generated block colors. 
 
