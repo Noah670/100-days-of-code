@@ -122,3 +122,33 @@
 1. [Pure Breakout ](https://noah670.github.io/Pure-Breakout/)
 
 
+### Day 13: November 29, 2020, Sunday
+
+**Today's Progress**: Created more of my UML diagrams to practice different notations and class strucutures
+
+**Thoughts**  I was able to finish several different diagrams for my project including my use cases, activity diagram, sequence diagram, and overall class strucurue.
+
+**Link(s) to work**
+1. [My UML diagrams ](https://github.com/Noah670/UML-diagrams-use-cases)
+
+
+### Day 12: November 30, 2020, Monday
+
+**Today's Progress**: Continued working on my game project now called Pure Breakout which includes new features such as a dark mode and randomly generated block colors. 
+
+**Thoughts**  I incorporated new features and ideas into Pure Breakout and I really like the way the overall presentation of the game turned out along with the background music.
+
+**Link(s) to work**
+1. [Pure Breakout ](https://noah670.github.io/Pure-Breakout/)
+
+
+### Day 12: December 1, 2020, Tuesday
+
+**Today's Progress**: Continued working on my game project now called Pure Breakout which includes new features such as a dark mode and randomly generated block colors. 
+
+**Thoughts**  I incorporated new features and ideas into Pure Breakout and I really like the way the overall presentation of the game turned out along with the background music.
+
+**Link(s) to work**
+1. [Code analgoies ](https://noah670.github.io/Pure-Breakout/)
+
+
