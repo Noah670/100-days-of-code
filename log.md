@@ -152,3 +152,16 @@
 1. [Code analogies ](https://www.codeanalogies.com/)
 
 
+### Day 16: December 2, 2020, Wednesday
+
+**Today's Progress**: Went back to CodeWars and started solving some challenging puzzles to help sharpen my javascript skills.
+
+**Thoughts**  I really found CodeWars to be a great tool for me and also engaging with other developers discussing how they worked through a solution was interesting. I will definitely be using CodeWars more in the future to practice my languaage skills.
+
+**Link(s) to work**
+1. [CodeWars ](https://www.codewars.com/)
+
+
+
+
+
